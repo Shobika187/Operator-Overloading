@@ -57,6 +57,8 @@ class Example
  
  ## Output:
  ![Screenshot (28)](https://user-images.githubusercontent.com/94508142/236787400-4c82987d-8f21-4678-9964-0480e3dd7e6e.png)
+ ![Screenshot (30)](https://user-images.githubusercontent.com/94508142/236788208-17a0bb94-4954-4779-add4-893c46f2760e.png)
+
 
  
  
