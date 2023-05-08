@@ -3,11 +3,11 @@
 ## Aim:
  To write a C# program to pass values through constructors(default and parameterized) and also overload equal operators by checking whether objects are equal using operator overloading. 
  
- ##Algorithm:
+ ## Algorithm:
  
  
  
- ##Program:
+ ## Program:
  ```
  Devloped by :Shobika P
  Register No:212221230096
@@ -55,9 +55,9 @@ class Example
  ```
  
  
- ##Output:
+ ## Output:
  ![Screenshot (28)](https://user-images.githubusercontent.com/94508142/236787400-4c82987d-8f21-4678-9964-0480e3dd7e6e.png)
 
  
  
- ##Result:
+ ## Result:
