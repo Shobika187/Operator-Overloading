@@ -9,7 +9,7 @@
  
  ## Program:
  ```
- Devloped by :Shobika P
+ Developed by :Shobika P
  Register No:212221230096
 
  using System;
